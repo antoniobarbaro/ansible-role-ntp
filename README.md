@@ -12,7 +12,7 @@ None
 Role Variables
 --------------
 
-None
+- ntp_timezone: timezone value. Default value is "Europe/Rome"
 
 Dependencies
 ------------
